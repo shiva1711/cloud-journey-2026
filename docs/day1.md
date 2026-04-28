@@ -13,3 +13,6 @@
 
 ## What I Understood
 A commit is a snapshot of my project.
+
+## New Learning
+I just understood how commits work.
